@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>How to make a website Easy Tutorials</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body background="white.jpg">
+<div class="banner">
+<div class="navbar">
+<ul>
+<li><a href="#">CONTACT NO:8639559649</a></li>
+<li><a href="#">AC:₹15,000-₹20,000</a></li>
+<li><a href="#">Non-Ac:₹5,000-₹10,000
+<li><a href="https://www.instagram.com/oyorooms/">INSTAGRAM</a></li>
+<li><a href="file:///C:/Users/hp/OneDrive/Desktop/k/about.html">About us</a></li>
+</ul>
+</div>
+<div class="content">
+<h1><center>CHOOSE YOUR HOUSE</center></h1>
+<p><center><h2>"Where the facilities and comfort gives our rented house as your own home"</h2></center></p> I
+</div>
+<center><a href="2bhk.html"><button type="button">><span></span>2-BHK</button></a></center>
+<center><a href="3bhk.html"><button type="button">><span></span>3-BHK</button></a></center>
+</div>
+</div>
+</body>
+</html>
